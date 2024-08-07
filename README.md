@@ -1,6 +1,6 @@
-# JOM. Inner, outer class. Enum
+# Inner, outer class. Enum
 ## Task 1
-Suppose we have the next class:
+Suppose we have the following class:
 
 ![image](https://user-images.githubusercontent.com/61456363/166102284-359b753d-ab87-463a-808e-fcb0643a0c41.png)
 
